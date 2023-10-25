@@ -1,4 +1,4 @@
-# ninja-kochtabelle
+# Ninja Air Fryer Kochtabelle
 
 Link: [Ninja Air Fryer Kochtabelle](https://lloesche.github.io/ninja-kochtabelle/)
 
