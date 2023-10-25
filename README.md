@@ -1,6 +1,6 @@
 # ninja-kochtabelle
 
-[Ninja Air Fryer Kochtabelle](https://lloesche.github.io/ninja-kochtabelle/)
+Link: [Ninja Air Fryer Kochtabelle](https://lloesche.github.io/ninja-kochtabelle/)
 
 ![QR Code on Air Fryer](https://raw.githubusercontent.com/lloesche/ninja-kochtabelle/main/qr_code_on_air_fryer.jpg "QR Code on Air Fryer")
 
